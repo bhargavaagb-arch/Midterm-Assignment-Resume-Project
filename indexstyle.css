@@ -1,0 +1,217 @@
+body{
+    background-color: #FFF8E1;
+}
+
+#resume{
+    background-color: #E8F1EE;
+    text-align: center;
+}
+
+p{
+    color: #172033;
+}
+
+h1{
+    color: brown;
+}
+
+h2{
+    color: brown;
+}
+
+.img{
+    border-radius: 100px;
+}
+
+.nav{
+    display: flex;
+    text-align: right;
+    gap: 1000px;
+}
+nav a{
+    display: block;
+    text-align: center;
+    background-color: #1F6F5F;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+a:hover{
+    background-color: #155446;
+    text-decoration: underline;
+    color: #FFF8E1;
+    transform: scale(1.03);
+}
+
+.about{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#para {
+    display: block;
+    text-align: center;
+    background-color: #1F6F5F;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    width: 30%;
+    height: 150px;
+}
+
+
+footer h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.contact-me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.contact-me a {
+    background-color: #C45A3C;
+    color: white;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+
+.contact-me span {
+    color: #1F6F5F;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contact-me a:hover {
+    background-color: #A9442A;
+}
+
+.education-card {
+    background-color: #1F6F5F;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 20px;
+    text-align: center;
+    width: 20%;
+}
+
+.parent-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.education-card p{
+    color: white;
+}
+
+#h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+li{
+    color: #172033;
+}
+
+.project-h-elements{
+    color: brown;
+}
+#span{
+    background-color: #D8EAE3;
+}
+
+.excel-project{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.excel-project p{
+    background-color: #1F6F5F;
+    color: white;
+    border-radius: 10px 100px / 120px;
+    padding: 10px 20px;
+    margin: 20px;
+    text-align: center;
+    width: 20%;
+}
+.excel-screenshot{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+}
+
+.smm-project{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.smm-project p{
+    background-color: #1F6F5F;
+    color: white;
+    border-radius: 10px 100px / 120px;
+    padding: 10px 20px;
+    margin: 20px;
+    text-align: center;
+    width: 20%;
+}
+
+.smm-screenshot{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
+.excel-project img:hover{
+     transform: scale(1.03);
+
+}
+
+.smm-project img:hover{
+    transform: scale(1.03);
+}
+
+.carrer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.goals-objectives{
+    background-color: #1F6F5F;
+    color: white;
+    border-radius: 10px 100px / 120px;
+    padding: 10px 20px;
+    margin: 20px;
+    text-align: center;
+    width: 40%;
+}
+
+.goals-objectives p{
+    color: white;
+}
+
+
+
+
+
+
